@@ -3,7 +3,7 @@ echo "<style>";
 echo "body {";
 echo "  background-color: lightblue;"; 
 echo "  font-family: Arial, sans-serif;";
-echo "  font-size: 14px;"; /* Ukuran font yang lebih kecil */
+echo "  font-size: 14px;"; 
 echo "}";
 echo ".list-container {";
 echo "  max-width: 600px;";
@@ -28,11 +28,11 @@ echo "  background-color: #eaeaea;";
 echo "}";
 echo ".list-container li h3 {";
 echo "  margin: 0 0 5px 0;";
-echo "  font-size: 1em;"; /* Ukuran font yang lebih kecil */
+echo "  font-size: 1em;"; 
 echo "}";
 echo ".list-container li p {";
 echo "  margin: 0;";
-echo "  font-size: 0.8em;"; /* Ukuran font yang lebih kecil */
+echo "  font-size: 0.8em;"; 
 echo "  color: #666;";
 echo "}";
 echo "</style>";
